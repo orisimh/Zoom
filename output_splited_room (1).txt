@@ -1,0 +1,104 @@
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+p
+First name, Last Name, ID, Avg, Room ID
+Eyal Hadad 1 100 0
+Hiam Abbas 1234 64 0
+Avital Abergel 111 81 0
+Gila Almagor 55 74 0
+Aviv Alush 12554 64 0
+Lior Ashkenazi 100234 10 0
+Yvan Attal 1209 66 0
+Mili Avital 198 39 0
+Aki Avni 12541 13 0
+Orna Banai 887 96 0
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+9
+room id:0, students:10
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+5
+---Split Room---
+Room id:
+0
+1.Character split
+2.Size split
+1
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+9
+room id:0, students:3
+room id:1, students:4
+room id:2, students:3
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+5
+---Split Room---
+Room id:
+0
+This room was split before
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+0
+Bye..

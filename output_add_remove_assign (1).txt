@@ -1,0 +1,183 @@
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+p
+First name, Last Name, ID, Avg, Room ID
+Eyal Hadad 1 100 -1
+Hiam Abbas 1234 64 -1
+Avital Abergel 111 81 -1
+Gila Almagor 55 74 -1
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+1
+---Create Student---
+First name:
+Eyal
+Last name:
+Hadad
+ID:
+2
+avg:
+100
+Worker(W) or Lazy(L) or Responsible(R) Student?
+W
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+p
+First name, Last Name, ID, Avg, Room ID
+Eyal Hadad 1 100 -1
+Hiam Abbas 1234 64 -1
+Avital Abergel 111 81 -1
+Gila Almagor 55 74 -1
+Eyal Hadad 2 100 -1
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+1
+---Create Student---
+First name:
+Eyal
+Last name:
+Hadad
+ID:
+1
+avg:
+78
+Worker(W) or Lazy(L) or Responsible(R) Student?
+E
+Please enter valid details
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+2
+---Remove Student---
+Enter the id:
+9
+id doesn't exists
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+2
+---Remove Student---
+Enter the id:
+1
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+4
+New room created
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+3
+---Assign Student---
+Enter student id:
+2
+Enter room id:
+0
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+p
+First name, Last Name, ID, Avg, Room ID
+Hiam Abbas 1234 64 -1
+Avital Abergel 111 81 -1
+Gila Almagor 55 74 -1
+Eyal Hadad 2 100 0
+1. Add Student
+2. Remove Student
+3. Assign Student
+4. Add Room
+5. Split Room
+6. Remove Room
+7. Work
+8. Send Message
+9. Print Rooms
+p. Print Students
+d. Print Student details
+0. Exit
+0
+Bye..
